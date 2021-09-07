@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\bin\Debug\netcoreapp3.1\J.ShareProfit.deps.json
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\bin\Debug\netcoreapp3.1\J.ShareProfit.dll
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\bin\Debug\netcoreapp3.1\J.ShareProfit.pdb
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.AssemblyInfo.cs
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.dll
+C:\Users\PC\source\repos\J.ShareProfit\J.ShareProfit\obj\Debug\netcoreapp3.1\J.ShareProfit.pdb
